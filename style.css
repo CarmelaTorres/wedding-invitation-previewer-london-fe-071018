@@ -28,6 +28,7 @@ body {
  .options button {
    font-size: 2vw;
    font-weight: bold;
+   text-transform: uppercase;
    margin: 1vw;
    border-radius: 15px;
    background-color: lightyellow;
