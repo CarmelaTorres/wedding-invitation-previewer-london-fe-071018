@@ -94,7 +94,7 @@ body {
 
  #display-first-spouse{
    position: absolute;
-   left: 920px;
+   left: 930px;
    top: 60%;
    text-align: center;
    transform: translateX(-50%)
@@ -103,14 +103,14 @@ body {
 #display-second-spouse {
    position: absolute;
    top: 73%;
-   left: 920px;
+   left: 930px;
    text-align: center;
    transform: translateX(-50%);
 }
 
  #display-date {
     position: absolute;
-    left: 920px;
+    left: 930px;
     top: 85%;
     text-align: center;
     transform: translateX(-50%);
@@ -118,7 +118,7 @@ body {
  
  #display-location {
     position: absolute;
-    left: 920px;
+    left: 930px;
     top: 95%;
     text-align: center;
     transform: translateX(-50%);
