@@ -28,7 +28,6 @@ body {
  .options button {
    font-size: 2vw;
    font-weight: bold;
-   text-transform: uppercase;
    margin: 1vw;
    border-radius: 15px;
    background-color: lightyellow;
@@ -41,6 +40,7 @@ body {
  .options button:hover {
    background-color: lightgrey;
    color: navy;
+   text-transform: uppercase;
    border: 2px light orange;
    transition: color 0.2s linear, background-color 0.2s linear;
  }
