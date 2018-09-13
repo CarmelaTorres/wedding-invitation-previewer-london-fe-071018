@@ -1,7 +1,7 @@
 
 @media screen and (min-width:642px) and (max-width:1090px){
   
-.header-text {
+#display-date {
   text-align: center;
   margin-top: 10px;
   font: 400 40px/1.3 'Berkshire Swash', Helvetica, sans-serif;
