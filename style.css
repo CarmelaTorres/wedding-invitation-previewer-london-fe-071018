@@ -98,7 +98,7 @@ body {
 }
 
  #display-first-spouse{
-   position: relative;
+   position: absolute;
    left: 930px;
    top: 60%;
    text-align: center;
