@@ -8,9 +8,9 @@
     body {
       width: 100%;
     }
-     #display-first-spouse{
+    #display-first-spouse {
    position: absolute;
-   left: 930px;
+   left: 30px;
    top: 60%;
    text-align: center;
    transform: translateX(-50%)
@@ -19,14 +19,14 @@
 #display-second-spouse {
    position: absolute;
    top: 73%;
-   left: 930px;
+   left: 30px;
    text-align: center;
    transform: translateX(-50%);
 }
 
  #display-date {
     position: absolute;
-    left: 930px;
+    left: 30px;
     top: 85%;
     text-align: center;
     transform: translateX(-50%);
@@ -39,3 +39,4 @@
     text-align: center;
     transform: translateX(-50%);
  } 
+}
