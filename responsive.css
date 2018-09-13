@@ -37,6 +37,36 @@
     left: 30px;
     top: 95%;
     text-align: center;
-    
+     #display-first-spouse{
+   position: absolute;
+   left: 930px;
+   top: 60%;
+   text-align: center;
+   transform: translateX(-50%)
+}
+
+#display-second-spouse {
+   position: absolute;
+   top: 73%;
+   left: 930px;
+   text-align: center;
+   transform: translateX(-50%);
+}
+
+ #display-date {
+    position: absolute;
+    left: 930px;
+    top: 85%;
+    text-align: center;
+    transform: translateX(-50%);
+ }
+ 
+ #display-location {
+    position: absolute;
+    left: 930px;
+    top: 95%;
+    text-align: center;
+    transform: translateX(-50%);
+ } 
  } 
 }
