@@ -95,6 +95,8 @@ body {
 }
 #preview {
   position: relative;
+  left: 930px;
+  transform: translateX(-50%)
 }
 
  #display-first-spouse{
