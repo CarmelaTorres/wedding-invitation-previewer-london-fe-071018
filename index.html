@@ -1,0 +1,42 @@
+ <!DOCTYPE html>
+ <html>
+   <head>
+     <link rel="stylesheet" type="text/css" href="style.css">
+      <link rel="responsivesheet" type= "text"/css" href="responsive.css">
+     <script src="index.js"></script>
+     <meta name="title" content="Wedding Invitation Planner">
+     <meta name="description" content="A nice wedding planner invitation tool, completely FREE to use">
+     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   </head>
+   <body>
+     <h1 class="title">Wedding Invitation Designer</h1>
+     <div class="interface">
+       <div class="input">
+         <div class="options"></div>
+        <hr>
+        <form>
+          <label for="first-spouse">First Spouse</label>
+          <input id="first-spouse" placeholder="First Spouse" type="text">
+          <label for="second-spouse">Second Spouse</label>
+          <input id="second-spouse" placeholder="Second Spouse" type="text">
+          <label for="date">Date of the Event</label>
+          <input id="date" placeholder="Date of the Event" type="date">
+          <label for="location">Location of the Event</label>
+          <input id="location" placeholder="Location of the Event" type="text">
+        </form>
+      </div>
+      <div class="display">
+        <h2 id="display-title">
+          Select a Theme
+        </h2>
+        <div class="preview">
+          <img id="preview-img" />
+          <span id="display-first-spouse"></span>
+          <span id="display-second-spouse"></span>
+          <span id="display-date"></span>
+          <span id="display-location"></span>
+        </div>
+      </div>
+    </div>
+  </body>
+ </html>
