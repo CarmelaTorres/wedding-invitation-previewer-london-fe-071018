@@ -95,9 +95,7 @@ body {
 }
 #preview {
   position: relative;
-  left: 930px;
-  text-align: center;
-  transform: translateX(-50%);
+  
 }
 
  #display-first-spouse{
